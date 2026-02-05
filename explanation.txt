@@ -1,0 +1,14 @@
+2p game:
+
+controls:
+
+p1: wasd ghj
+p2: arrows num(456)
+
+abilities:
+
+-attack (energy ball)
+-shield (knocks back)
+-recharge (recharges energy by 50 each time)
+
+

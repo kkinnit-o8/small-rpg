@@ -1,0 +1,99 @@
+Introduksjon
+
+Tittel, navn, IT2
+
+Hva prosjektet er
+
+Prosjektidé
+
+Hva er Pong Mode Madness
+
+Hvorfor jeg laget det
+
+Spillmekanikk
+
+Modusbytte hvert 10. sekund
+
+Oversikt over spillmoduser
+
+Live demonstrasjon
+
+Kontroller
+
+Modusbytte og poeng
+
+Klasse-/UML-struktur
+
+Game
+
+Paddle
+
+Ball
+
+GameMode
+
+ModeManager
+
+Objektorientert design
+
+Komposisjon
+
+Ansvarsfordeling
+
+Modulstruktur
+
+Kravoppfyllelse
+
+UML
+
+OOP
+
+PyGame
+
+Dokumentasjon
+
+Testing
+
+Dokumentasjon
+
+Docstrings
+
+PEP 257
+
+Testing
+
+pytest
+
+Hva som testes
+
+Hvorfor testing
+
+Bruk av KI
+
+Hva KI ble brukt til
+
+Egen forståelse
+
+Utfordringer
+
+Kollisjon
+
+Modusbytte
+
+Struktur
+
+Læring
+
+OOP
+
+PyGame
+
+Testing
+
+Avslutning
+
+Oppsummering
+
+Videre forbedringer
+
+Spørsmål
